@@ -14,7 +14,7 @@
   "main": "node_modules/node-red/red/red.js",
   "dependencies": {
     "node-red": "^1.2.6",
-    "node-red-dashboard": "^2.24.1"
+    "node-red-dashboard": "^2.26.2"
   },
   "scripts": {
     "start": "node-red /data/flows.json"
